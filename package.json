@@ -1,0 +1,12 @@
+{
+  "name": "test-slack-sdk-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^4.8.0",
+    "dotenv": "^6.1.0",
+    "lodash": "^4.17.11",
+    "node-schedule": "^1.3.0"
+  }
+}
